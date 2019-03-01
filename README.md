@@ -1,4 +1,4 @@
-# C_Sharp_HomeWork
+# C_Sharp_HomeWork1_25.02.2019
 Task 1: 
 Create a console application which takes 5 numbers from user input and prints those numbers multiplied by 10.
 
